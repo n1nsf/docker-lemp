@@ -77,8 +77,8 @@ cd docker-lemp
 2. Open your favorite browser :
 
     * [http://localhost](http://localhost/)
-    * [https://localhost:443](https://localhost:443/) ([HTTPS](#configure-nginx-with-ssl-certificates) not configured by default)
-    * [http://localhost:8080](http://localhost:8080/) PHPMyAdmin (username: dev, password: dev)
+    * [https://localhost:443](https://localhost/) ([HTTPS](#configure-nginx-with-ssl-certificates) not configured by default)
+    * [http://localhost:8080](http://localhost:8080/) PHPMyAdmin
 
 3. Stop and clear services
 
